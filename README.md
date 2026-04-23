@@ -4,27 +4,7 @@ Bu proje, bir API Gateway için RFC 9213 uyumlu bir İstek Zamanlayıcı uygulam
 
 ## Derleme ve Çalıştırma
 
-Projeyi derlemek ve çalıştırmak için aşağıdaki adımları izleyin:
 
-1. Derleme:
-   ```bash
-   make
-   ```
-
-2. Programı çalıştırma:
-   ```bash
-   make run
-   ```
-
-3. Bellek sızıntılarını kontrol etmek için Valgrind kullanımı:
-   ```bash
-   make valgrind
-   ```
-
-4. Temizlik:
-   ```bash
-   make clean
-   ```
 
 ## Proje Dosya Yapısı
 
